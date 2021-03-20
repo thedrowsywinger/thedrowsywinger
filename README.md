@@ -11,11 +11,6 @@
 
 - 🔭 I’m currently working as a Software Engineer at Early advantage Bangladesh
 - 🌱 I’m currently learning: Vue JS, Flutter
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with: Flutter
-<!-- - 💬 Ask me about:  -->
 - 📫 How to reach me: abdullah.sarwar@northsouth.edu
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 
