@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working as a Software Engineer at [Early Advantage Bangladesh](https://earlyadvantagebd.com/)
-- 🌱 I’m currently learning: Vue JS, Flutter
+- 🌱 I’m currently learning: React/Next JS, Flutter
 - 🤔 I’m looking for help with: Flutter
 - 📫 How to reach me: abdullah.sarwar@northsouth.edu
 
