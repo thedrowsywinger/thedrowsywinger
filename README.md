@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- **thedrowsywinger/thedrowsywinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
@@ -9,7 +7,7 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thedrowsywinger&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 </p>
 
-Hi 👋 My name is Abdullah Md Sarwar
+Hi there 👋 ! My name is Abdullah Md Sarwar
 ===================================
 
 Software Engineer
