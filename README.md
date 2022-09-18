@@ -10,9 +10,6 @@
 Hi there 👋 ! My name is Abdullah Md Sarwar
 ===================================
 
-Software Engineer
------------------
-
 I am currently working as a Software Engineer at [mPower Social Enterprise Ltd](https://www.mpower-social.com/index.php). I contribute to designing the Back-End system logic of the applications built here. 
 <br>
 I completed BSc. in Computer Science and Engineering from North South University, Dhaka, Bangladesh.
