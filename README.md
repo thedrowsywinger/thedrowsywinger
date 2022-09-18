@@ -7,7 +7,7 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thedrowsywinger&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 </p>
 
-Hi there 👋 ! My name is Abdullah Md Sarwar
+Hi there 👋 !
 ===================================
 
 I am currently working as a Software Engineer at [mPower Social Enterprise Ltd](https://www.mpower-social.com/index.php). I contribute to designing the Back-End system logic of the applications built here. 
