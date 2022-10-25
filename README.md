@@ -8,13 +8,7 @@
 
 Hi there 👋 !
 ===================================
-
-I am currently working as a Software Engineer at [mPower Social Enterprise Ltd](https://www.mpower-social.com/index.php). I contribute to designing the Back-End system logic of the applications built here. 
-<br>
-I completed BSc. in Computer Science and Engineering from North South University, Dhaka, Bangladesh.
-
-* 🌍  I'm based in Dhaka, Bangladesh
-* ✉️  You can contact me at [abdullah.md.sarwar@gmail.com](mailto:abdullah.md.sarwar@gmail.com) , [abdullah@mpower-social.com](mailto:abdullah@mpower-social.com) , [abdullah.sarwar@northsouth.edu](mailto:abdullah.sarwar@northsouth.edu)
+* ✉️  You can contact me at [abdullah.md.sarwar@gmail.com](mailto:abdullah.md.sarwar@gmail.com)
 
 
 <p align="center">
