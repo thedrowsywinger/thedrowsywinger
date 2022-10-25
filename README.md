@@ -43,7 +43,7 @@ Hi there 👋 !
 
 <b>My GitHub Stats</b>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thedrowsywinger&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<a href="http://www.github.com/thedrowsywinger"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thedrowsywinger&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <br /><br /><br /><br /><br />
 
