@@ -2,10 +2,9 @@
 
 <!-- Here are some ideas to get you started: -->
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=thedrowsywinger&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thedrowsywinger&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
-</p>
+<div align="center">
+<img src="https://github.com/thedrowsywinger/thedrowsywinger/blob/main/github_bio.gif" align="center" style="width: 100%" />
+</div>  
 
 Hi there 👋 !
 ===================================
@@ -16,6 +15,14 @@ I completed BSc. in Computer Science and Engineering from North South University
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [abdullah.md.sarwar@gmail.com](mailto:abdullah.md.sarwar@gmail.com) , [abdullah@mpower-social.com](mailto:abdullah@mpower-social.com) , [abdullah.sarwar@northsouth.edu](mailto:abdullah.sarwar@northsouth.edu)
+
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=thedrowsywinger&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thedrowsywinger&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+</p>
+
+
 * ![Profile views](https://gpvc.arturio.dev/thedrowsywinger)
 
 ### Skills
