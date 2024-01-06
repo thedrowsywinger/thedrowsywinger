@@ -16,9 +16,6 @@ Hi there 👋 !
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thedrowsywinger&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 </p>
 
-
-* ![Profile views](https://gpvc.arturio.dev/thedrowsywinger)
-
 ### Skills
 
 <p align="left">
