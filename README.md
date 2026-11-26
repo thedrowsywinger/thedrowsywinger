@@ -14,7 +14,7 @@ I work on the backend behind ShareTrip's bookings, payments and pricing. Search 
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚽ Matchday</b></summary>
 <br>
 
@@ -22,7 +22,7 @@ Away from the keyboard, my life is about three things: family, friends and footb
 
 <img src="assets/teamsheet.svg" alt="Team sheet in a 4-4-1-1 formation. Data at the back, the plumbing in midfield, AI agents as false 9, NestJS up front." width="100%">
 
-Data at the back, the plumbing in midfield, NestJS up front. AI agents (Claude Code, Codex, T3 Code) play false 9: they drop deep and set up the finish. The manager picks the team and owns the result. [How I work with AI agents →](https://thedrowsywinger.github.io/agents.html)
+Data at the back, the plumbing in midfield, NestJS up front. AI agents (Claude Code, Codex, T3 Code) play false 9: they drop deep and set up the finish. The manager picks the team and owns the result.
 
 </details>
 
